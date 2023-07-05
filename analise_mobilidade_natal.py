@@ -23,8 +23,6 @@ Realizamos os tratamento de dados em notebooks anteriores:
 Instalação e importação das bibliotecas:
 """
 
-!pip install networkx
-
 import networkx as nx
 import matplotlib.pyplot as plt
 import pandas as pd
