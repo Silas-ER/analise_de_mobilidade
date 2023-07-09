@@ -6,7 +6,7 @@
   <main>
     <h3>Introdução</h3>
     <p>
-      O trabalho foi proposto pela disciplina de ANÁLISE DE REDES - IMD1155 e consiste em aplicar os conteúdos vistos nas aulas a um dataset escolhido pela dupla e assim escolhemos o Dataset publico disponibilizado pela prefeitura de Natal relacionado a os dados de transporte publico, focando nos dados de 2022 e através de um notebook do Google Colab.
+      O trabalho foi proposto pela disciplina de ANÁLISE DE REDES - IMD1155 e consiste em aplicar os conteúdos vistos nas aulas a um dataset escolhido pela dupla e assim escolhemos o Dataset publico disponibilizado pela prefeitura de Natal relacionado a os dados de transporte publico, focando nos dados de 2022 e definimos os nós como as ruas em que as linhas passam e as mesmas como arestas para realizar as analises através de um notebook do Google Colab.
     </p>
     <h3>Desenvolvimento</h3>
     <p>
