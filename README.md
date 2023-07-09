@@ -16,11 +16,11 @@
       matplotlib.pyplot
       networkx
     </code></pre>
-      A partir do arquivo csv obtido nos [dados publicos](http://dados.natal.br), retiramos os valores nulos ou vazios e após isso criamos o grafo pela biblioteca networkx. Após a criação do grafo, partimos para as especificações do projeto, calculando a Matriz de adjacência, Diâmetro e periferia da rede, Esparsidade/Densidade da Rede, Assortatividade geral da rede e Histograma de distribuição empírica de grau com a biblioteca matplotlib.pyplot.
+      A partir do arquivo csv obtido nos link http://dados.natal.br/, retiramos os valores nulos ou vazios e após isso criamos o grafo pela biblioteca networkx. Após a criação do grafo, partimos para as especificações do projeto, calculando a Matriz de adjacência, Diâmetro e periferia da rede, Esparsidade/Densidade da Rede, Assortatividade geral da rede e Histograma de distribuição empírica de grau com a biblioteca matplotlib.pyplot.
     <br>
       Assim partimos para os calculos de Coeﬁciente de clustering local para nós escolhidos (onde escolhemos ruas que consideramos que são maiores e com mais paradas), Coeﬁciente de clustering global, Componentes Conectados Fortemente e Componentes Conectados Fracamente. Por fim exibimos métodos de comparação tanto em terminal quanto tentativas graficas das metricas de Eigenvector centrality, Degree centrality, Closeness centrality e Betweenness centrality.
     <br>
-      Também tentamos realizar outras analises utilizando a mesma biblioteca grafica matplotlib.pyplot e por fim realizamos duas exibições uma com pyvis e outra através do Gephi e que pode ser vista [aqui]()
+      Também tentamos realizar outras analises utilizando a mesma biblioteca grafica matplotlib.pyplot e por fim realizamos duas exibições uma com pyvis e outra através do Gephi e que pode ser vista 
     </p>
     <h3>Conclusões</h3>
     <p>
