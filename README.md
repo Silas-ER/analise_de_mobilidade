@@ -20,7 +20,7 @@
     <br>
       Assim partimos para os calculos de Coeﬁciente de clustering local para nós escolhidos (onde escolhemos ruas que consideramos que são maiores e com mais paradas), Coeﬁciente de clustering global, Componentes Conectados Fortemente e Componentes Conectados Fracamente. Por fim exibimos métodos de comparação tanto em terminal quanto tentativas graficas das metricas de Eigenvector centrality, Degree centrality, Closeness centrality e Betweenness centrality.
     <br>
-      Também tentamos realizar outras analises utilizando a mesma biblioteca grafica matplotlib.pyplot e por fim realizamos duas exibições uma com pyvis e outra através do Gephi e que pode ser vista 
+      Também tentamos realizar outras analises utilizando a mesma biblioteca grafica matplotlib.pyplot e por fim realizamos duas exibições uma com pyvis e outra através do Gephi e que pode ser vista no link https://silas-er.github.io/analise_de_mobilidade/network/
     </p>
     <h3>Conclusões</h3>
     <p>
